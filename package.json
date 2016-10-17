@@ -1,6 +1,6 @@
 {
   "name": "del-symlinks-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Delete symlinks from CLI using glob",
   "license": "MIT",
   "repository": "iguntur/del-symlinks-cli",
