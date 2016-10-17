@@ -1,0 +1,53 @@
+{
+  "name": "del-symlinks-cli",
+  "version": "0.0.0",
+  "description": "Delete symlinks from CLI using glob",
+  "license": "MIT",
+  "repository": "iguntur/del-symlinks-cli",
+  "author": {
+    "name": "Guntur",
+    "email": "poetra.guntur@gmail.com",
+    "url": "guntur.starmediateknik.com"
+  },
+  "bin": {
+    "del-symlinks": "cli.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "clean",
+    "cli",
+    "cli-app",
+    "del",
+    "delete",
+    "files",
+    "folders",
+    "glob",
+    "globy",
+    "ln",
+    "paths",
+    "remove",
+    "rm",
+    "rmrf",
+    "symlinks",
+    "unlink"
+  ],
+  "dependencies": {
+    "del-symlinks": "^0.1.1",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "execa": "^0.4.0",
+    "fs-extra": "^0.30.0",
+    "path-exists": "^2.0.0",
+    "xo": "^0.16.0"
+  }
+}
