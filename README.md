@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save del-symlinks-cli
+$ npm install --global del-symlinks-cli
 ```
 
 
