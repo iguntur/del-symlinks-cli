@@ -4,6 +4,7 @@
   "description": "Delete symlinks from CLI using glob",
   "license": "MIT",
   "repository": "iguntur/del-symlinks-cli",
+  "preferGlobal": true,
   "author": {
     "name": "Guntur Poetra",
     "email": "poetra.guntur@gmail.com",
