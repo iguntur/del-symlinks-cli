@@ -1,11 +1,12 @@
-# del-symlinks-cli [![Build Status](https://travis-ci.org/iguntur/del-symlinks-cli.svg?branch=master)](https://travis-ci.org/iguntur/del-symlinks-cli) [![npm](https://img.shields.io/npm/v/del-symlinks-cli.svg?style=flat-square)](https://npmjs.com/package/del-symlinks-cli) [![npm](https://img.shields.io/npm/l/del-symlinks-cli.svg?style=flat-square)](#)
+# del-symlinks-cli [![Build Status](https://travis-ci.org/iguntur/del-symlinks-cli.svg?branch=master)](https://travis-ci.org/iguntur/del-symlinks-cli) [![npm](https://img.shields.io/npm/v/del-symlinks-cli.svg?style=flat-square)](https://npmjs.com/package/del-symlinks-cli)
 
 > Delete symlinks
 
 
 ## Install
 
-```
+
+``` bash
 $ npm install --global del-symlinks-cli
 ```
 
