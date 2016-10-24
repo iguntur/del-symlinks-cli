@@ -32,6 +32,7 @@ $ del-symlinks --help
 - [del-symlinks](https://github.com/iguntur/del-symlinks) - API for this module
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders
 
+
 ## License
 
-MIT © [Guntur](http://guntur.starmediateknik.com)
+MIT © [Guntur Poetra](http://guntur.starmediateknik.com)

@@ -5,9 +5,9 @@
   "license": "MIT",
   "repository": "iguntur/del-symlinks-cli",
   "author": {
-    "name": "Guntur",
+    "name": "Guntur Poetra",
     "email": "poetra.guntur@gmail.com",
-    "url": "guntur.starmediateknik.com"
+    "url": "http://guntur.starmediateknik.com"
   },
   "bin": {
     "del-symlinks": "cli.js"
